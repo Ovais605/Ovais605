@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ovais605" alt="ovais605" /></a> </p>
 
-- 🔭 I’m currently worked on **Stroke prediction website**
+- 🔭 I’m currently working on *My Skills**
 
 - 👯 I’m looking to collaborate on **Data science & PowerBI projects**
 
